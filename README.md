@@ -4,7 +4,7 @@
 
 <br/>
 
-<p align="center"><b>关于订阅</b></p>
+<p align="center"><b>记录java面试题</b></p>
 
 <p align="center">喜欢请点右上角 `star`。订阅的话，请 `watch` 按钮。</p>
 
